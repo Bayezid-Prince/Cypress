@@ -1,0 +1,1 @@
+cy.get('[data-testid="user-name"]').should('not.exist');
